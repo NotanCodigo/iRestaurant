@@ -139,11 +139,5 @@
         <text>Mesa%206</text>
       </controlProperties>
     </control>
-    <control controlID="79" controlTypeID="com.balsamiq.mockups::RoundButton" x="776" y="371" w="95" h="91" measuredW="32" measuredH="32" zOrder="26" locked="false" isInGroup="-1">
-      <controlProperties>
-        <size>40</size>
-        <text>+</text>
-      </controlProperties>
-    </control>
   </controls>
 </mockup>

@@ -1,0 +1,1 @@
+alter table Almacen.Movimiento add OpEsSalidaVenta bit not null default(0);
