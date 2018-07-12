@@ -168,7 +168,7 @@
     </control>
     <control controlID="55" controlTypeID="com.balsamiq.mockups::StickyNote" x="1105" y="282" w="221" h="134" measuredW="109" measuredH="123" zOrder="22" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Al%20agregar%20un%20producto%2C%20la%20cantidad%20por%20defecto%20es%201%2C%20al%20dar%20clic%20en%20el%20producto%20la%20cantidad%20aumentar%E1%20en%201.%0A%20%0AAl%20deslizar%20hacia%20la%20derecha%20se%20podr%E1%20quitar%20el%20producto</text>
+        <text>Al%20agregar%20un%20producto%2C%20la%20cantidad%20por%20defecto%20es%201%2C%20al%20dar%20clic%20en%20la%20cantidad%2C%20%E9sta%20aumentar%E1%20en%201.%0A%20%0AAl%20deslizar%20hacia%20la%20derecha%20se%20podr%E1%20quitar%20el%20producto</text>
       </controlProperties>
     </control>
     <control controlID="56" controlTypeID="com.balsamiq.mockups::Label" x="373" y="191" w="177" h="-1" measuredW="123" measuredH="21" zOrder="23" locked="false" isInGroup="-1">
